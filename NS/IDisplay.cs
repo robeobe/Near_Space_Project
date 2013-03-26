@@ -1,4 +1,4 @@
-namespace Bib_Display
+namespace Lib_Display
 {
     public interface IDisplay
     {

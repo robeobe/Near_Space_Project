@@ -3,7 +3,7 @@ using System.Collections;
 using System.IO;
 using Microsoft.SPOT.Hardware;
 
-namespace Bib_DS18B20
+namespace Lib_DS18B20
 {
     // ReSharper disable InconsistentNaming
     public class DS18X20 // ReSharper restore InconsistentNaming

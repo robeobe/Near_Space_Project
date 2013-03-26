@@ -1,10 +1,10 @@
 using System;
 using Common;
 using MicroLiquidCrystal;
-using Bib_Display;
-using Bib_DS18B20;
+using Lib_Display;
+using Lib_DS18B20;
 
-namespace Bib_DS18B20
+namespace Lib_DS18B20
 {
     public class LcdDisplay : IDisplay
     {

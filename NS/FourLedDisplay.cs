@@ -2,9 +2,9 @@ using System;
 using System.Threading;
 using Common;
 using Microsoft.SPOT.Hardware;
-using Bib_Display;
+using Lib_Display;
 
-namespace Bib_DS18B20
+namespace Lib_DS18B20
 {
     public class FourLedDisplay : IDisplay, IDisposable
     {

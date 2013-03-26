@@ -1,11 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS-ONE-WIRE", "NS-ONE-WIRE\NS-ONE-WIRE.csproj", "{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS-LED-BLINK", "NS-LED-BLINK\NS-LED-BLINK.csproj", "{85F387B3-DC2F-49B0-B262-EB36CA832673}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS-RTC", "NS-RTC\NS-RTC.csproj", "{BA4627FC-3D6D-4182-B98B-20BA91BBF370}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS", "NS-RTC\NS.csproj", "{BA4627FC-3D6D-4182-B98B-20BA91BBF370}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0BE6D4C1-9BCB-410A-A8A9-F2CB2CB1A4D1}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{85F387B3-DC2F-49B0-B262-EB36CA832673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{85F387B3-DC2F-49B0-B262-EB36CA832673}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{85F387B3-DC2F-49B0-B262-EB36CA832673}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{85F387B3-DC2F-49B0-B262-EB36CA832673}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{85F387B3-DC2F-49B0-B262-EB36CA832673}.Release|Any CPU.Build.0 = Release|Any CPU
-		{85F387B3-DC2F-49B0-B262-EB36CA832673}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{BA4627FC-3D6D-4182-B98B-20BA91BBF370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BA4627FC-3D6D-4182-B98B-20BA91BBF370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA4627FC-3D6D-4182-B98B-20BA91BBF370}.Debug|Any CPU.Deploy.0 = Debug|Any CPU

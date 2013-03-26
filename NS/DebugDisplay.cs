@@ -1,7 +1,7 @@
 using System;
 using Microsoft.SPOT;
 
-namespace Bib_Display
+namespace Lib_Display
 {
     public class DebugDisplay : IDisplay
     {

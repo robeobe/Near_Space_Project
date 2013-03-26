@@ -1,8 +1,8 @@
 using System;
-using Bib_Display;
-using Bib_DS18B20;
+using Lib_Display;
+using Lib_DS18B20;
 
-namespace Bib_Display
+namespace Lib_Display
 {
     public class Display : IDisplay
     {
